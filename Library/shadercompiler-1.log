@@ -1,122 +1,42 @@
-Base path: C:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-7208
+Base path: D:/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-6796
 Cmd: getPlatforms
 Cmd: preprocess
   insize=577 outsize=577 ok=1
 Cmd: preprocess
-  insize=777 outsize=777 ok=1
+  insize=818 outsize=818 ok=1
 Cmd: preprocess
-  insize=2254 outsize=989 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1567 outsize=1274 kw=SOFTPARTICLES_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1567 outsize=949 kw=SOFTPARTICLES_OFF ok=1
+  insize=2358 outsize=1037 ok=1
 Cmd: preprocess
-  insize=5122 outsize=2085 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=3341 outsize=2087 kw=WATER_REFRACTIVE ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3341 outsize=2875 kw=WATER_REFRACTIVE ok=1
+  insize=5333 outsize=2168 ok=1
 Cmd: preprocess
-  insize=2263 outsize=1031 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1534 outsize=1274 kw=SOFTPARTICLES_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1534 outsize=908 kw=SOFTPARTICLES_OFF ok=1
+  insize=2368 outsize=1081 ok=1
 Cmd: preprocess
-  insize=587 outsize=1252 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4469 outsize=2696 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4469 outsize=1550 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2445 outsize=2964 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2445 outsize=1851 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1869 outsize=1477 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1869 outsize=632 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4186 outsize=2972 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4186 outsize=1493 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  insize=621 outsize=1266 ok=1
 Cmd: preprocess
-  insize=2483 outsize=1166 ok=1
+  insize=2589 outsize=1217 ok=1
 Cmd: compileSnippet
   error: 2 plat 4 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
   api=4 type=0 insize=1623 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=795 outsize=795 ok=1
+  insize=836 outsize=836 ok=1
 Cmd: preprocess
-  insize=683 outsize=683 ok=1
+  insize=708 outsize=708 ok=1
 Cmd: preprocess
-  insize=455 outsize=1203 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4281 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4281 outsize=1307 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2257 outsize=2875 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2257 outsize=1607 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1785 outsize=1477 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1785 outsize=632 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=3998 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3998 outsize=1250 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  insize=484 outsize=1217 ok=1
 Cmd: preprocess
-  insize=637 outsize=1246 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4531 outsize=2696 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4531 outsize=1575 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2507 outsize=2964 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2507 outsize=1875 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1925 outsize=1477 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1925 outsize=632 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4248 outsize=2972 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4248 outsize=1518 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  insize=673 outsize=1262 ok=1
 Cmd: preprocess
-  insize=601 outsize=1251 ok=1
+  insize=635 outsize=1266 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4515 outsize=3387 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=4531 outsize=1583 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4515 outsize=1737 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=1 insize=4531 outsize=1396 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2390 outsize=3037 kw=POINT ok=1
+  api=4 type=0 insize=4281 outsize=1493 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2390 outsize=2005 kw=POINT ok=1
+  api=4 type=1 insize=4281 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2395 outsize=2915 kw= ok=1
+  api=4 type=0 insize=4469 outsize=1583 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2395 outsize=1510 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4204 outsize=2972 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4204 outsize=1250 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2257 outsize=1851 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2257 outsize=1193 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2390 outsize=2257 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2390 outsize=1591 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2445 outsize=1940 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2445 outsize=1437 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2507 outsize=1940 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2507 outsize=1461 kw=DIRECTIONAL ok=1
+  api=4 type=1 insize=4469 outsize=1372 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
