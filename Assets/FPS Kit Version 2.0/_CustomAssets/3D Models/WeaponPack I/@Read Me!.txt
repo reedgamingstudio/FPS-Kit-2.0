@@ -1,0 +1,3 @@
+Thank you for purchasing Animated Weapon Pack!
+
+- (.blend) Sources archive contains Blender 3D version of all models with animations from this package
